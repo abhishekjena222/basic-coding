@@ -2,7 +2,7 @@ package org.example.practice.basic;
 
 import java.util.Arrays;
 
-public class MinMaxFromArrayLeastComarison {
+public class MinMaxFromArrayLeastComparison {
     public static void main(String[] args) {
         int[] arr = {2,6,5,3,9,8,1};
         int length = arr.length;
