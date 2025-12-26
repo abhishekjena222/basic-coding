@@ -43,13 +43,26 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SortArrayOf0s1s2s">
-    <configuration name="AddTwoBinaryString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.practice.basic.AddTwoBinaryString" />
+  <component name="RunManager" selected="Application.MaxSubArraySum">
+    <configuration name="JustOneMistake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.arrays.JustOneMistake" />
       <module name="PracticePart2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.practice.basic.*" />
+          <option name="PATTERN" value="org.example.practice.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.arrays.MaxSubArraySum" />
+      <module name="PracticePart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.practice.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,21 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinMaxFromArrayLeastComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.practice.basic.MinMaxFromArrayLeastComparison" />
-      <module name="PracticePart2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.practice.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MissingNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.practice.basic.MissingNumberInArray" />
+    <configuration name="PivotElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.basic.PivotElementInArray" />
       <module name="PracticePart2" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubArraySum" />
+        <item itemvalue="Application.JustOneMistake" />
+        <item itemvalue="Application.PivotElementInArray" />
         <item itemvalue="Application.SortArrayOf0s1s2s" />
         <item itemvalue="Application.MergeTwoSortedArrays" />
-        <item itemvalue="Application.MissingNumberInArray" />
-        <item itemvalue="Application.MinMaxFromArrayLeastComparison" />
-        <item itemvalue="Application.AddTwoBinaryString" />
       </list>
     </recent_temporary>
   </component>
@@ -136,11 +136,49 @@
       <option name="project" value="LOCAL" />
       <updated>1766668654514</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sort Arrays of 0s 1s 2s">
+      <option name="closed" value="true" />
+      <created>1766669630906</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1766669630906</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Pivot Element In an Array">
+      <option name="closed" value="true" />
+      <created>1766670978342</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766670978342</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Just one mistake in the closes word matched in the array with the target word">
+      <option name="closed" value="true" />
+      <created>1766675457812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766675457812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new code basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="new code basic" />
+    <MESSAGE value="Sort Arrays of 0s 1s 2s" />
+    <MESSAGE value="Pivot Element In an Array" />
+    <MESSAGE value="Just one mistake in the closes word matched in the array with the target word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Just one mistake in the closes word matched in the array with the target word" />
   </component>
 </project>
