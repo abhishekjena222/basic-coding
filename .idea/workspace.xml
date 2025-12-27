@@ -48,7 +48,20 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IndexedOfSubArraySum">
+  <component name="RunManager" selected="Application.ArrayIsSubSetOfAnotherArray">
+    <configuration name="ArrayIsSubSetOfAnotherArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.practice.basic.ArrayIsSubSetOfAnotherArray" />
+      <module name="PracticePart2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.practice.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IndexedOfSubArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.practice.arrays.IndexedOfSubArraySum" />
       <module name="PracticePart2" />
@@ -101,26 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArrayOf0s1s2s" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.practice.basic.SortArrayOf0s1s2s" />
-      <module name="PracticePart2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.practice.basic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayIsSubSetOfAnotherArray" />
         <item itemvalue="Application.IndexedOfSubArraySum" />
         <item itemvalue="Application.MaxSubArraySum" />
         <item itemvalue="Application.JustOneMistake" />
         <item itemvalue="Application.PivotElementInArray" />
-        <item itemvalue="Application.SortArrayOf0s1s2s" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766675457812</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="finding indexes of sub array whose sum of each element is the targeted value">
+      <option name="closed" value="true" />
+      <created>1766851322047</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766851322047</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -184,6 +192,7 @@
     <MESSAGE value="Sort Arrays of 0s 1s 2s" />
     <MESSAGE value="Pivot Element In an Array" />
     <MESSAGE value="Just one mistake in the closes word matched in the array with the target word" />
-    <option name="LAST_COMMIT_MESSAGE" value="Just one mistake in the closes word matched in the array with the target word" />
+    <MESSAGE value="finding indexes of sub array whose sum of each element is the targeted value" />
+    <option name="LAST_COMMIT_MESSAGE" value="finding indexes of sub array whose sum of each element is the targeted value" />
   </component>
 </project>
